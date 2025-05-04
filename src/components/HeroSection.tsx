@@ -28,7 +28,7 @@ const HeroSection = () => {
           <div className="relative w-72 h-72 md:w-96 md:h-96">
             <div className="absolute inset-0 rounded-full bg-psychologist-blue opacity-20"></div>
             <img 
-              src='/public/2.jpg' 
+              src= url('/public/4.jpg')
               alt="Andrea Miranda Psicanalista" 
               className="w-full h-full object-cover rounded-full shadow-lg border-4 border-white"
             />
