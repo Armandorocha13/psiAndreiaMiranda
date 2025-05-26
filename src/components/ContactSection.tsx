@@ -56,8 +56,8 @@ const ContactSection = () => {
                   <div>
                     <h4 className="font-medium mb-1">Telefone</h4>
                     <p className="text-psychologist-text-light">
-                      <a href="https://wa.me/5521975942576?text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20uma%20consulta!">
-                      (21)97594-2576
+                      <a href="https://wa.me/5521978637863">
+                      (21)97863-7863
                       </a>
                        </p>
                   </div>
