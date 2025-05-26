@@ -19,7 +19,7 @@ const HeroSection = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
             <Button asChild className="bg-psychologist-gold hover:bg-psychologist-blue text-white border-none">
-              <a href="#" aria-label="Agendar consulta com Andrea Miranda">Agendar Consulta</a>
+              <a href="https://wa.me/5521978637863" aria-label="Agendar consulta com Andrea Miranda">Agendar Consulta</a>
             </Button>
             <Button asChild variant="outline" className="border-psychologist-text-light text-psychologist-text-light hover:bg-psychologist-text-light hover:text-white">
               <a href="#about" aria-label="Conheça o trabalho da Andrea Miranda">Conheça meu trabalho</a>
